@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 [![Xiaomi 10](https://img.shields.io/badge/Xiaomi%2010-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-10/)
 
-[![Xiaomi 11](https://img.shields.io/badge/Xiaomi%2010-FF6900?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-11/)
+[![Xiaomi 11](https://img.shields.io/badge/Xiaomi%2010-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-11/)
 
-[![DELL Inspiron 7557](https://img.shields.io/badge/Dell%20Inspiron%207557-0076CE?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=0076CE)](https://dell.com/inspiron/)
+[![DELL Inspiron 7557](https://img.shields.io/badge/Dell%20Inspiron%207557-0076CE?style=flat-square&logo=dell&logoColor=FFFFFF&labelColor=0076CE)](https://dell.com/inspiron/)
 
 [![Hasee God-of-War TX8R9](https://img.shields.io/badge/Hasee%20GodOfWar%20TX8R9-FBDD00?style=flat-square&logo=hasee&logoColor=FFFFFF&labelColor=FBDD00)](https://www.hasee.com/)
   
