@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 - 🌐 My Website : [SevtingeのNest](https://sevtinge.cn)
 
+
+
 ### 💻 Environment 
 
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10) 
@@ -32,6 +34,8 @@ Here are some ideas to get you started:
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org) 
 
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/) 
+
+
   
 ### 📱 Devices 
 
@@ -44,8 +48,11 @@ Here are some ideas to get you started:
 [![DELL Inspiron 7557](https://img.shields.io/badge/Dell%20Inspiron%207557-0076CE?style=flat-square&logo=dell&logoColor=FFFFFF&labelColor=0076CE)](https://dell.com/inspiron/)
 
 [![Hasee God-of-War TX8R9](https://img.shields.io/badge/Hasee%20GodOfWar%20TX8R9-FBDD00?style=flat-square&logo=hasee&logoColor=FFFFFF&labelColor=FBDD00)](https://www.hasee.com/)
+
+
   
 ### 📫 Contact me 
+
  [![Twitter](https://img.shields.io/twitter/follow/sevtinge?style=flat-square&color=1da1f2&label=%40sevtinge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/sevtinge)
  
  [![Telegram](https://img.shields.io/badge/%40sevtinge-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/sevt1nge) 
@@ -53,6 +60,8 @@ Here are some ideas to get you started:
 
 [![Coolapk](https://img.shields.io/badge/%40绀漓丨Sevtinge-11B667?style=flat-square&logo=coolapk&logoColor=FFFFFF&labelColor=11B667)](http://www.coolapk.com/u/10871889) 
  
+
+
   
 ### 💰 Buy me a coffee 
 
