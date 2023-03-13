@@ -15,11 +15,11 @@
  - 😄 Pronouns: ... 
  - ⚡ Fun fact: ... 
  --> 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sevtinge&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" /> 
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sevtinge&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
   
-### Hi there 👋 I'm hosizoraru 
-- 🌱 I’m learning software engineering 
-- 🇨🇳 Use Simplified Chinese, UTC+8:00 
-- 📫 Email: sevtinge@gmail.com 
+### Hi there 👋 I'm Sevtinge
+- 🌱 I’m learning software engineering
+- 🇨🇳 Use Simplified Chinese, UTC+8:00
+- 📫 Email: sevtinge@gmail.com
 - 🌐 My Website : [SevtingeのNest](https://sevtinge.cn)
  
