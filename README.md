@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-### 💻 Environment 
+### 💻 Environment 
 
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10) 
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
   
-### 📱 Devices 
+### 📱 Devices 
 
 [![Xiaomi 8 SE](https://img.shields.io/badge/Xiaomi%208%20SE-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-8-se/)
 
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 
   
-### 📫 Contact me 
+### 📫 Contact me 
 
  [![Twitter](https://img.shields.io/twitter/follow/sevtinge?style=flat-square&color=1da1f2&label=%40sevtinge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/sevtinge)
  
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 
   
-### 💰 Buy me a coffee 
+### 💰 Buy me a coffee 
 
 * [Donation](https://www.sevtinge.cn/t/donation.html) 
  
