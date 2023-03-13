@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sevtinge&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
   
-### Hi there 👋 I'm Sevtinge
+### Hi there 👋 I'm Sevtinge
 
 - 🌱 I’m learning software engineering
 
-- 🇨🇳 Use Simplified Chinese, UTC+8:00
+- 🇨🇳 Use Simplified Chinese, UTC+8:00
 
-- 📫 Email: sevtinge@gmail.com
+- 📫 Email: sevtinge@gmail.com
 
-- 🌐 My Website : [SevtingeのNest](https://sevtinge.cn)
+- 🌐 My Website : [SevtingeのNest](https://sevtinge.cn)
 
 
 
@@ -65,5 +65,5 @@ Here are some ideas to get you started:
   
 ### 💰 Buy me a coffee 
 
-* [here](https://www.sevtinge.cn/t/donation.html) 
+* [Donation](https://www.sevtinge.cn/t/donation.html) 
  
