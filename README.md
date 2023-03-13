@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 [![DELL Inspiron 7557](https://img.shields.io/badge/Dell%20Inspiron%207557-0076CE?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=0076CE)](https://dell.com/inspiron/)
 
-[![Hasee God-of-War TX8R9](https://img.shields.io/badge/Hasee%20God-of-War%20TX8R9-FBDD00?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=FBDD00)](https://www.hasee.com/)
+[![Hasee God-of-War TX8R9](https://img.shields.io/badge/Hasee%20GodOfWar%20TX8R9-FBDD00?style=flat-square&logo=hasee&logoColor=FFFFFF&labelColor=FBDD00)](https://www.hasee.com/)
   
 ### 📫 Contact me 
  [![Twitter](https://img.shields.io/twitter/follow/really_snow?style=flat-square&color=1da1f2&label=%40really_snow&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/sevtinge) 
