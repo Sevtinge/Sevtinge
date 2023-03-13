@@ -1,8 +1,5 @@
-### Hi there 👋 
- --> 
-  
- <!-- 
- **Sevtinge/Sevtinge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+<!-- 
+**Sevtinge/Sevtinge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
   
  Here are some ideas to get you started: 
   
@@ -14,8 +11,8 @@
  - 📫 How to reach me: ... 
  - 😄 Pronouns: ... 
  - ⚡ Fun fact: ... 
- --> 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sevtinge&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+--> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sevtinge&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
   
 ### Hi there 👋 I'm Sevtinge
 - 🌱 I’m learning software engineering
