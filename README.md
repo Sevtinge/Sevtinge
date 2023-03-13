@@ -46,8 +46,10 @@ Here are some ideas to get you started:
 [![Hasee God-of-War TX8R9](https://img.shields.io/badge/Hasee%20GodOfWar%20TX8R9-FBDD00?style=flat-square&logo=hasee&logoColor=FFFFFF&labelColor=FBDD00)](https://www.hasee.com/)
   
 ### 📫 Contact me 
- [![Twitter](https://img.shields.io/twitter/follow/sevtinge?style=flat-square&color=1da1f2&label=%40sevtinge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/sevtinge) 
+ [![Twitter](https://img.shields.io/twitter/follow/sevtinge?style=flat-square&color=1da1f2&label=%40sevtinge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/sevtinge)
+ 
  [![Telegram](https://img.shields.io/badge/%40sevtinge-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/sevt1nge) 
+
 
 [![Coolapk](https://img.shields.io/badge/%40绀漓丨Sevtinge-11B667?style=flat-square&logo=coolapk&logoColor=FFFFFF&labelColor=11B667)](http://www.coolapk.com/u/10871889) 
  
