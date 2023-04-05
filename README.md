@@ -65,5 +65,5 @@ Here are some ideas to get you started:
   
 ### 💰 Buy me a coffee 
 
-* [Donation](https://www.sevtinge.cn/t/donation.html) 
+* [Donation](https://www.sevtinge.cc/t/donation.html) 
  
