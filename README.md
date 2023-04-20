@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 --> 
 
+## Hi there 👋 I'm 绀漓丨Sevtinge
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sevtinge&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sevtinge&layout=compact" />
-
-### Hi there 👋 I'm Sevtinge
 
 - 🌱 I’m learning software engineering
 
