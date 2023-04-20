@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 📫 Email: sevtinge@gmail.com
 
-- 🌐 My Website : [SevtingeのNest](https://sevtinge.cn)
+- 🌐 My Website : [SevtingeのNest](https://www.sevtinge.cc)
 
 
 
