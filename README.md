@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="#">
-<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=NextAlone" />
+<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Sevtinge" />
 </a>
 
 - 🌱 I’m learning software engineering
