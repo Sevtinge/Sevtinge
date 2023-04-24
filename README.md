@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sevtinge&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 </a>
 
-<a href="#">
-<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sevtinge" />
-</a>
-
 - 🌱 I’m learning software engineering
 
 - 🇨🇳 Use Simplified Chinese, UTC+8:00
