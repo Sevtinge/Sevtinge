@@ -45,11 +45,15 @@ Here are some ideas to get you started:
   
 ### 📱 Devices 
 
+[![Xiaomi Note 3](https://img.shields.io/badge/Xiaomi%20Note%203-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-8-se/)
+
 [![Xiaomi 8 SE](https://img.shields.io/badge/Xiaomi%208%20SE-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-8-se/)
 
 [![Xiaomi 10](https://img.shields.io/badge/Xiaomi%2010-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-10/)
 
 [![Xiaomi 11](https://img.shields.io/badge/Xiaomi%2011-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-11/)
+
+[![Redmi Note 12 Turbo](https://img.shields.io/badge/Redmi%20Note%2012%20Turbo-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-8-se/)
 
 [![DELL Inspiron 7557](https://img.shields.io/badge/Dell%20Inspiron%207557-0076CE?style=flat-square&logo=dell&logoColor=FFFFFF&labelColor=0076CE)](https://dell.com/inspiron/)
 
