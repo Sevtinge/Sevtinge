@@ -53,7 +53,9 @@ Here are some ideas to get you started:
 
 [![Xiaomi 11](https://img.shields.io/badge/Xiaomi%2011-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-11/)
 
-[![Redmi Note 12 Turbo](https://img.shields.io/badge/Redmi%20Note%2012%20Turbo-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-8-se/)
+[![Redmi Note 12 Turbo](https://img.shields.io/badge/Redmi%20Note%2012%20Turbo-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/redmi-note-12-turbo/)
+
+[![Xiaomi Pad 6 Pro](https://img.shields.io/badge/Xiaomi%20Pad%206%20Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/pad-6-pro/)
 
 [![DELL Inspiron 7557](https://img.shields.io/badge/Dell%20Inspiron%207557-0076CE?style=flat-square&logo=dell&logoColor=FFFFFF&labelColor=0076CE)](https://dell.com/inspiron/)
 
