@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--Content that does not require translation-->
+    <string name="app_name" translatable="false">Cemiuiler</string>
+    <string name="system_ui_status_bar_icon_nfc" translatable="false">NFC</string>
+    <string name="system_ui_status_bar_icon_vpn" translatable="false">VPN</string>
+    <string name="location_simulation_gps" translatable="false">GPS</string>
+    <string name="system_ui_statusbar_network_speed_speedunits" translatable="false">KMG</string>
+    <string name="array_netspeedicons_arrows" translatable="false">△▽ (▲▼)</string>
+    <string name="array_netspeedicons_bullets" translatable="false">☖ ⛉ ( ☗ ⛊ )</string>
+    <string name="array_netspeedicons_arrows_small" translatable="false">▵ ▿ ( ▴ ▾ )</string>
+    <string name="array_netspeedicons_arrows_long1" translatable="false">↑ ↓</string>
+    <string name="array_netspeedicons_arrows_long2" translatable="false">⇧ ⇩</string>
+    <string name="system_ui_display_toast_title" translatable="false">Toast</string>
+    <string name="summary_collapsed_preference_list" translatable="false">%1$s%2$s</string>
     <!--Introduction to Xposed Modules-->
     <string name="xposed_description">Make MIUI Great Again!</string>
     <!--Cemiuiler Settings/About Page-->
@@ -498,6 +511,13 @@
     <string name="system_ui_statusbar_network_speed_sec_unit">Hide Byte per second suffix (*b/s)</string>
     <string name="system_ui_statusbar_network_speed_icon">Indicator icon</string>
     <string name="system_ui_statusbar_network_speed_enable_custom">Enable custom</string>
+    <string name="system_ui_statusbar_network_speed_format_d_ms">%d ms</string>
+    <string name="system_ui_statusbar_network_speed_format_d_s">%d s</string>
+    <string name="system_ui_statusbar_network_speed_format_d_m">%d m</string>
+    <string name="system_ui_statusbar_network_speed_format_KBs">%d KB/s</string>
+    <string name="system_ui_statusbar_network_speed_oneKBs">1 KB/s</string>
+    <string name="system_ui_statusbar_network_speed_Bs">B/s</string>
+    <string name="system_ui_statusbar_network_speed_lux">%s lux</string>
     <string name="system_ui_statusbar_clock_mode">Custom clock mode</string>
     <string name="system_ui_statusbar_clock_editor">Clock format</string>
     <string name="system_ui_statusbar_clock_year">Show year</string>
@@ -570,7 +590,7 @@
     <string name="system_ui_control_center_default_background_alpha">Default Background value</string>
     <string name="system_ui_control_center_fix_media_control_panel">Fix media control panel</string>
     <string name="system_ui_control_center_compact_notice">Compact notifications</string>
-    <string name="system_ui_control_center_compact_notice_desc">Reduce notifications\\' vertical paddings</string>
+    <string name="system_ui_control_center_compact_notice_desc">Reduce notifications\' vertical paddings</string>
     <string name="system_ui_control_center_show_weather">Show weather</string>
     <string name="system_ui_control_center_show_weather_city">Show city</string>
     <string name="system_ui_control_center_mute_visible_notice">Mute when screen is on</string>
@@ -928,7 +948,7 @@
     <string name="powerkeeper_do_not_kill_apps_desc">May increase power consumption</string>
     <!--creen Recorder-->
     <string name="screenrecorder">Screen Recorder</string>
-    <string name="screen_recorder_force_support_playback_capture">Force enable ASOP screen recording support</string>
+    <string name="screen_recorder_force_support_playback_capture">Force enable AOSP screen recording support</string>
     <string name="screen_recorder_force_support_playback_capture_desc">Requires screen recording version support</string>
     <string name="screen_recorder_config">Add more frame rate and bitrate selections</string>
     <string name="screen_recorder_config_desc">Please choose according to the hardware situation</string>
