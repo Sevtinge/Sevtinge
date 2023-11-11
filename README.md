@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10) 
 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-008BFF?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=FF6900)](https://ubuntu.com) 
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-FF6900?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=FF6900)](https://ubuntu.com) 
 
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/) 
 
