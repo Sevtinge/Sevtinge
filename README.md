@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 [![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows10) 
 
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org) 
+[![Ubuntu](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=ubuntu&logoColor=FFFFFF&labelColor=FF6900)](https://archlinux.org) 
 
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/) 
 
