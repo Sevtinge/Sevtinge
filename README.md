@@ -3,6 +3,7 @@
   
 Here are some ideas to get you started: 
   
+
 - 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ... 
@@ -78,5 +79,5 @@ Here are some ideas to get you started:
   
 ### 💰 Buy me a coffee 
 
-* [Donation](https://blog.sevtinge.cc/t/donation) 
+* [Donation](https://blog.sevtinge.cc/donation) 
  
