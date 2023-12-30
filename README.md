@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 
 [![Xiaomi 11](https://img.shields.io/badge/Xiaomi%2011-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-11/)
 
+[![Xiaomi 14 Pro Ti](https://img.shields.io/badge/Xiaomi%2014%20Pro%20Ti-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://www.mi.com/xiaomi-14-pro)
+
 [![Redmi Note 12 Turbo](https://img.shields.io/badge/Redmi%20Note%2012%20Turbo-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/redmi-note-12-turbo/)
 
 [![Xiaomi Pad 6 Pro](https://img.shields.io/badge/Xiaomi%20Pad%206%20Pro-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/pad-6-pro/)
@@ -65,17 +67,16 @@ Here are some ideas to get you started:
   
 ### 📫 Contact me 
 
- [![Twitter](https://img.shields.io/twitter/follow/sevtinge?style=flat-square&color=1da1f2&label=%40sevtinge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/sevtinge)
+ [![Twitter](https://img.shields.io/twitter/follow/sevtinge?style=flat-square&color=1da1f2&label=%40CN_Sevtinge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://x.com/CN_Sevtinge)
  
- [![Telegram](https://img.shields.io/badge/%40sevtinge-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/sevt1nge) 
-
-
-[![Coolapk](https://img.shields.io/badge/%40绀漓丨Sevtinge-11B667?style=flat-square&logo=coolapk&logoColor=FFFFFF&labelColor=11B667)](http://www.coolapk.com/u/10871889) 
+ [![Telegram](https://img.shields.io/badge/%40Sevtinge_PM_Bot-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/Sevtinge_PM_Bot) 
+ 
+[![Bilibili](https://img.shields.io/badge/%40绀漓丨Sevtinge-FF6699?style=flat-square&logo=bilibili&logoColor=FFFFFF&labelColor=FF6699)](https://space.bilibili.com/526912874) 
  
 
 
   
 ### 💰 Buy me a coffee 
 
-* [Donation](https://www.sevtinge.cc/t/donation.html) 
+* [Donation](https://blog.sevtinge.cc/t/donation) 
  
