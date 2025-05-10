@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   
 ### 📫 Contact me 
 
- [![Twitter](https://img.shields.io/twitter/follow/sevtinge?style=flat-square&color=1da1f2&label=%40CN_Sevtinge&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://x.com/CN_Sevtinge)
+ [![Twitter](https://img.shields.io/twitter/follow/sevtinge?style=flat-square&color=1da1f2&label=%40Sevtinge&logo=x&logoColor=FFFFFF&labelColor=1DA1F2)](https://x.com/CN_Sevtinge)
  
  [![Telegram](https://img.shields.io/badge/%40Sevtinge_PM_Bot-0088CC?style=flat-square&logo=telegram&logoColor=FFFFFF&labelColor=0088CC)](https://t.me/Sevtinge_PM_Bot) 
  
