@@ -46,6 +46,8 @@ Here are some ideas to get you started:
   
 ### 📱 Devices 
 
+[![iPhone 14 Pro Max](https://img.shields.io/badge/iPhone%2014%20Pro%20Max-000000?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/111846)
+
 [![Xiaomi Note 3](https://img.shields.io/badge/Xiaomi%20Note%203-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-8-se/)
 
 [![Xiaomi 8 SE](https://img.shields.io/badge/Xiaomi%208%20SE-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://mobile.mi.com/sg/mi-8-se/)
