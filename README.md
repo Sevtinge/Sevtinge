@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 - 🇨🇳 Use Simplified Chinese, UTC+8:00
 
-- 📫 Email: sevtinge@gmail.com
+- 📫 Email: me@sevtinge.com
 
-- 🌐 My Website : [SevtingeのNest](https://www.sevtinge.cc)
+- 🌐 My Website : [绀漓の锟斤拷](https://www.sevtinge.com)
 
 
 
