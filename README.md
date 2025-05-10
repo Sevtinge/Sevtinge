@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 ## Hi there 👋 I'm 绀漓丨Sevtinge
 
 <a href="#">
-<img align="center" src="https://stats.deeptrain.net/user/Sevtinge/" />
-</a>
-
-<a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sevtinge&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
 </a>
 
