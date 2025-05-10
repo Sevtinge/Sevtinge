@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 
   
-### 💰 Buy me a coffee 
+### 💰 Buy me a cup of tea 
 
-* [Donation](https://blog.sevtinge.cc/donation) 
+* [Donation](https://www.sevtinge.com/donation) 
  
