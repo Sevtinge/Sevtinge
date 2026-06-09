@@ -61,5 +61,5 @@ Here are some ideas to get you started:
   
 ### 💰 Buy me a cup of tea 
 
-* [Donation](https://www.sevtinge.com/donation) 
+* [Donate](https://www.sevtinge.com/donation) 
  
