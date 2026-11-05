@@ -38,7 +38,9 @@ Here are some ideas to get you started:
   
 ### 📱 Devices 
 
-[![iPhone 14 Pro Max](https://img.shields.io/badge/iPhone%2014%20Pro%20Max-000000?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/111846)
+[![iPhone 16 Pro Max](https://img.shields.io/badge/iPhone%2016%20Pro%20Max-000000?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/en-ca/121032)
+
+[![iPad Pro 12.9-inch (6th generation)](https://img.shields.io/badge/iPad%20Pro%2012.9-inch%20(6th%20generation)-000000?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=000000)](https://support.apple.com/en-us/111841)
 
 [![Xiaomi 14 Pro Ti](https://img.shields.io/badge/Xiaomi%2014%20Pro%20Ti-FF6900?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=FF6900)](https://www.mi.com/xiaomi-14-pro)
 
